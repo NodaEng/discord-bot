@@ -61,9 +61,9 @@ number_emoji_dict = {
 
 taunt_dict = {
     'puta': lambda player: send_message(f"""Sua mãe não está nessa aventura, {player.nick}."""),
-    'quero fuder': lambda player: send_message(f"""Eu tenho o feitiço !sussurrar [amante], ele faz só os dois (ou mais) se escutarem.
-Pensa que só o Mestre tem esse poder."""),
-    'vai toma no cu': lambda player: send_message(f""""""),
+    'quero fuder': lambda player: send_message(f"""Eu tenho o feitiço **!sussurrar [amante]**, ele faz só os dois (ou mais) se escutarem.
+Mas só o Mestre tem esse poder... (͠≖ ͜ʖ͠≖)"""),
+    'vai toma no cu': lambda player: send_message(f"""To indo aí tomar nesse teu cu de piscina. (っ⌒‿⌒)っ"""),
 
 }
 
