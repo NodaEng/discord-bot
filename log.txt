@@ -795,3 +795,1115 @@ Defeito - Um escândalo me impede de voltar para casa novamente. Esse tipo de pro
 [23:17:58. 28/09/2020] None: :four::six:
 [23:18:00. 28/09/2020] Shinra Okono: nice
 [23:18:02. 28/09/2020] Mardar: só?
+[22:28:39. 30/09/2020] None: Cheguei, to pronto pra te ajudar.
+[22:34:57. 30/09/2020] Lucy: Bota o bot de música nesse cu
+[22:35:01. 30/09/2020] Lucy: Yuri
+[22:35:02. 30/09/2020] Lucy: Gay
+[22:35:16. 30/09/2020] Mardar: orra
+[22:35:17. 30/09/2020] Lucy: <@366377785951911947>
+[22:35:18. 30/09/2020] Mardar: eu nn dxava
+[22:35:46. 30/09/2020] Lucy: E mudar o nome q téu pediu
+[22:36:09. 30/09/2020] Mestre: coloca CMS: O Conto dos Esquecidos
+[22:36:11. 30/09/2020] Mestre: hehe
+[22:36:15. 30/09/2020] Mestre: o nome do rpg de vcs
+[22:36:24. 30/09/2020] Mestre: e se quiser mudar a imagem tbm
+[22:36:32. 30/09/2020] Mestre: to aceitando
+[22:36:35. 30/09/2020] Lucy: Bota o Mário abrindo o cu
+[22:36:36. 30/09/2020] None: 
+[22:36:36. 30/09/2020] None: 
+[22:36:49. 30/09/2020] Mestre: 
+[22:37:35. 30/09/2020] Myma Taru: _p bota com vontade
+[22:37:36. 30/09/2020] None: 
+[22:37:36. 30/09/2020] None: 
+[22:37:36. 30/09/2020] None: 
+[22:37:47. 30/09/2020] Myma Taru: _s
+[22:37:47. 30/09/2020] None: You need a role called DJ.
+This can be bypassed if you're an admin (either Manage Server or Administrator) or you're alone with the bot.
+[22:38:01. 30/09/2020] Myma Taru: _skip
+[22:38:01. 30/09/2020] None: You need a role called DJ.
+This can be bypassed if you're an admin (either Manage Server or Administrator) or you're alone with the bot.
+[22:38:07. 30/09/2020] Lucy: _s
+[22:38:07. 30/09/2020] None: You need a role called DJ.
+This can be bypassed if you're an admin (either Manage Server or Administrator) or you're alone with the bot.
+[22:38:09. 30/09/2020] Mestre: _s
+[22:38:09. 30/09/2020] None: Skipped current track.
+[22:38:37. 30/09/2020] None: 
+[22:42:36. 30/09/2020] None: Cheguei, to pronto pra te ajudar.
+[22:43:28. 30/09/2020] Lucy: <@648953201537843234> vê oq eu mandei no zap
+[22:46:14. 30/09/2020] Shinra Okono: tô chegandoooooo
+[22:46:30. 30/09/2020] Mardar: _p skyrim rain theme
+[22:46:30. 30/09/2020] None: 
+[22:46:30. 30/09/2020] None: The track can not exceed 4 hours.
+[22:46:44. 30/09/2020] Shinra Okono: foda ai
+[22:46:47. 30/09/2020] Mestre: +play Skyrim - Music & Ambience - Night [10 Hours]
+[22:46:48. 30/09/2020] None: 
+[22:47:20. 30/09/2020] Mardar: to chorando mto
+[22:47:26. 30/09/2020] Myma Taru: Música bosta
+[22:47:28. 30/09/2020] Myma Taru: Aaa
+[22:49:05. 30/09/2020] Mardar: shhhhhhhhhhhhhhh
+[22:51:02. 30/09/2020] Shinra Okono: +p the dragborns comes skyrim
+[22:51:03. 30/09/2020] None: Enqueued `The Dragonborn Comes - Malukah - Lyrics ( extended version )` in position `2`.
+[22:57:39. 30/09/2020] Lucy: Para de fala q tu é minha namorrrrrrrrrrrrrrr
+[22:57:50. 30/09/2020] Mardar: divulga no twitetereer
+[22:58:02. 30/09/2020] Lucy: Q o DJ azeitona amassa
+[23:00:25. 30/09/2020] Lucy: E vamos de 17 de constituição
+[23:04:44. 30/09/2020] Shinra Okono: !d100
+[23:04:44. 30/09/2020] None: :two::nine:
+[23:06:31. 30/09/2020] Mestre: kk
+[23:06:39. 30/09/2020] Mardar: pel[e
+[23:06:42. 30/09/2020] Mardar: pelé
+[23:16:16. 30/09/2020] Mestre: +play RPG Playlist - Tavern/Inn Music
+[23:16:16. 30/09/2020] None: Enqueued `RPG Playlist - Tavern/Inn Music` in position `3`.
+[23:16:27. 30/09/2020] Mestre: +stop
+[23:16:28. 30/09/2020] Mestre: +play RPG Playlist - Tavern/Inn Music
+[23:16:28. 30/09/2020] None: 
+[23:48:06. 30/09/2020] Mardar: !d20
+[23:48:06. 30/09/2020] None: :two::zero:
+[23:48:16. 30/09/2020] Myma Taru: Roubado
+[23:48:22. 30/09/2020] Lucy: Fdp
+[23:48:26. 30/09/2020] Shinra Okono: arrombado
+[23:48:37. 30/09/2020] Myma Taru: Bot foi modificado
+[23:53:16. 30/09/2020] Myma Taru: Shinra tem C
+[23:53:26. 30/09/2020] Shinra Okono: china tem c
+[23:55:23. 30/09/2020] Mardar: <@!648953201537843234>
+[00:10:58. 01/10/2020] Shinra Okono: 
+[00:11:01. 01/10/2020] Shinra Okono: mardar
+[00:11:38. 01/10/2020] Mestre: +play Fantasy Bard/Tavern Music Compilation
+[00:11:38. 01/10/2020] None: 
+[00:11:42. 01/10/2020] Myma Taru: Pohessa
+[00:11:46. 01/10/2020] Mestre: +stop
+[00:11:58. 01/10/2020] Mestre: +play RPG Playlist - Tavern/Inn Music
+[00:11:58. 01/10/2020] None: 
+[00:12:05. 01/10/2020] Shinra Okono: 
+[00:12:21. 01/10/2020] Lucy: KKKKKKKKKKKKKK
+[00:12:27. 01/10/2020] Mestre: kk
+[00:12:32. 01/10/2020] Mestre: foi o caderno q digitou
+[00:12:35. 01/10/2020] Shinra Okono: ata
+[00:12:46. 01/10/2020] Mestre: https://tenor.com/view/shocked-gif-7443411
+[00:25:00. 01/10/2020] Myma Taru: 
+[00:26:00. 01/10/2020] Myma Taru: Carioca
+[00:29:02. 01/10/2020] Mestre: prq eles se odeiam felipe
+[00:29:05. 01/10/2020] Mestre: scrr
+[00:29:10. 01/10/2020] Myma Taru: Sla man
+[00:29:20. 01/10/2020] Myma Taru: Ser humano tem cerberos pequenos
+[00:29:31. 01/10/2020] Mestre: como que eu vou fazer um grupo de rpg se eles  se odeia e n aceitaram o chamado pra aventura?
+[00:29:32. 01/10/2020] Mestre: ;-;;;;;;
+[00:30:45. 01/10/2020] Mestre: aeeeeeee
+[00:31:01. 01/10/2020] Shinra Okono: !d20
+[00:31:01. 01/10/2020] None: :three:
+[00:31:54. 01/10/2020] Myma Taru: !D20
+[00:31:54. 01/10/2020] None: Não entendi o que quis dizer.
+[00:31:57. 01/10/2020] Mestre: AEEEE TEM AVENTURA FELIPE UHUU
+[00:32:02. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:32:05. 01/10/2020] Mestre: lkkkkk
+[00:32:06. 01/10/2020] Myma Taru: Sksk
+[00:32:41. 01/10/2020] Myma Taru: !d20
+[00:32:41. 01/10/2020] None: :one::five:
+[00:32:58. 01/10/2020] None: Cheguei, to pronto pra te ajudar.
+[00:33:07. 01/10/2020] Myma Taru: Vlw cara
+[00:33:12. 01/10/2020] Mestre: !d1
+[00:33:12. 01/10/2020] None: :one:
+[00:33:16. 01/10/2020] Mestre: oloco
+[00:33:46. 01/10/2020] Myma Taru: :20:
+[00:33:56. 01/10/2020] Myma Taru: :2::0:
+[00:34:02. 01/10/2020] Mestre: wtf
+[00:34:03. 01/10/2020] Mardar: : two:
+[00:34:04. 01/10/2020] Myma Taru: 20
+[00:34:49. 01/10/2020] Myma Taru: Vai ser só crítico agr Théo
+[00:35:07. 01/10/2020] Mestre: ;-------------------------;
+[00:35:20. 01/10/2020] Mestre: !dthéo
+[00:35:20. 01/10/2020] None: Não entendi o que quis dizer.
+[00:35:22. 01/10/2020] Mestre: ;-;;;;;
+[00:38:14. 01/10/2020] Mestre: +p Skyrim - Music & Ambience - Night
+[00:38:14. 01/10/2020] None: Enqueued `Skyrim - Music & Ambience - Night` in position `7`.
+[00:38:18. 01/10/2020] Mestre: +skip
+[00:38:18. 01/10/2020] None: Skipping...
+[00:38:18. 01/10/2020] None: 
+[00:38:54. 01/10/2020] Mardar: !d20
+[00:38:54. 01/10/2020] None: :two::zero:
+[00:39:02. 01/10/2020] Mardar: !d20
+[00:39:02. 01/10/2020] None: :six:
+[00:39:04. 01/10/2020] Mestre: !d20
+[00:39:05. 01/10/2020] None: :seven:
+[00:39:06. 01/10/2020] Mardar: !d20
+[00:39:06. 01/10/2020] None: :one::seven:
+[00:39:57. 01/10/2020] Myma Taru: Eu falei q ia ser só crítico
+[00:40:16. 01/10/2020] Mestre: claro claro
+[00:40:39. 01/10/2020] None: Cheguei, to pronto pra te ajudar.
+[00:41:13. 01/10/2020] Myma Taru: Chego tarde otário
+[00:41:20. 01/10/2020] Mestre: ;-;;
+[00:41:31. 01/10/2020] Mardar: tururu
+[00:49:42. 01/10/2020] Myma Taru: Vai toma nu cu legal blz
+[00:54:56. 01/10/2020] Mestre: +stop
+[00:55:07. 01/10/2020] Mestre: +play World of Warcraft - Music & Ambience - Emerald Nightmare
+[00:55:08. 01/10/2020] None: 
+[01:01:08. 01/10/2020] Mestre: +play Megalo Strike Back (Chara fight theme)
+[01:01:08. 01/10/2020] None: Enqueued `Megalo Strike Back (Chara fight theme)` in position `9`.
+[01:01:35. 01/10/2020] Mestre: +skip
+[01:01:35. 01/10/2020] None: Skipping...
+[01:01:35. 01/10/2020] None: 
+[01:02:40. 01/10/2020] Shinra Okono: carai theo
+[01:02:45. 01/10/2020] Shinra Okono: lançou a braba
+[01:02:53. 01/10/2020] Mardar: carai pescotapa
+[01:06:37. 01/10/2020] Mestre: +play Undertale OST - It's Raining Somewhere Else Extended
+[01:06:38. 01/10/2020] None: Enqueued `Undertale OST - It's Raining Somewhere Else Extended` in position `10`.
+[01:06:41. 01/10/2020] Mestre: +skip
+[01:06:42. 01/10/2020] None: Skipping...
+[01:06:42. 01/10/2020] None: 
+[01:12:06. 01/10/2020] Mestre: +play Undertale OST - It's Raining Somewhere Else Extended
+[01:12:06. 01/10/2020] None: Enqueued `Undertale OST - It's Raining Somewhere Else Extended` in position `11`.
+[01:22:10. 01/10/2020] Mardar: deita em cima dessa fdp
+[01:22:22. 01/10/2020] Lucy: KKKKKKKKKKKKK
+[01:22:41. 01/10/2020] Lucy: Dxa ela
+[01:22:52. 01/10/2020] Mardar: vai te roba td
+[01:22:52. 01/10/2020] None: 
+[01:22:55. 01/10/2020] Shinra Okono: to nao
+[01:24:17. 01/10/2020] Lucy: Foi minha sopa
+[01:34:14. 01/10/2020] Myma Taru: +megalo strike back
+[01:34:34. 01/10/2020] Myma Taru: +play megalo strike back
+[01:34:34. 01/10/2020] None: Enqueued `Megalo Strike Back (Chara fight theme)` in position `12`.
+[01:34:40. 01/10/2020] Myma Taru: +skip
+[01:35:13. 01/10/2020] Myma Taru: +skip
+[01:35:13. 01/10/2020] None: 
+[01:35:20. 01/10/2020] Myma Taru: +next
+[01:35:51. 01/10/2020] Shinra Okono: +sp
+[01:35:51. 01/10/2020] Lucy: +next
+[01:36:00. 01/10/2020] Shinra Okono: +skip
+[01:36:05. 01/10/2020] Lucy: +skip
+[01:36:05. 01/10/2020] None: Skipping...
+[01:36:05. 01/10/2020] None: 
+[01:38:00. 01/10/2020] Myma Taru: +stop
+[01:38:00. 01/10/2020] None: 
+[01:39:03. 01/10/2020] Lucy: Fiz um desenho da minha ficou uma bosta
+[01:39:53. 01/10/2020] Lucy: Mano eu pisei na porra de um espinho agr eu tô andando parece q minha perna esquerda encolheu
+[01:40:05. 01/10/2020] Shinra Okono: mardar
+[01:40:14. 01/10/2020] Lucy: KKKKKKKKKKKKKKKKKKKKKJJKKJKKJKKJJKKJ
+[01:40:34. 01/10/2020] Myma Taru: Man
+[01:40:43. 01/10/2020] Myma Taru: Eu tava passando se moto
+[01:40:52. 01/10/2020] Shinra Okono: fds
+[01:40:56. 01/10/2020] Mardar: é vdd
+[01:40:57. 01/10/2020] Myma Taru: E vi a Bel na bike
+[01:41:06. 01/10/2020] Lucy: Quando ?
+[01:41:11. 01/10/2020] Mardar: orra bel
+[01:41:12. 01/10/2020] Shinra Okono: qm énessa?
+[01:41:16. 01/10/2020] Myma Taru: Ontem
+[01:41:17. 01/10/2020] Mardar: falo q tu chupa escapamento de moto
+[01:41:21. 01/10/2020] Lucy: KKKKKKKKKKKKKKKKKKKKKJJKKJKKJKKJJKKJ
+[01:41:28. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:41:30. 01/10/2020] Lucy: Ela roda a cidade de bike
+[01:41:35. 01/10/2020] Myma Taru: Ss
+[01:41:36. 01/10/2020] Lucy: Essa rapariga
+[01:41:43. 01/10/2020] Myma Taru: Ela tava de blusa azul
+[01:41:48. 01/10/2020] Shinra Okono: qm é essaw
+[01:41:50. 01/10/2020] Lucy: Tlgd
+[01:41:53. 01/10/2020] Lucy: E essa msm
+[01:41:56. 01/10/2020] Lucy: A farda
+[01:42:04. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:42:05. 01/10/2020] Myma Taru: Eu olhei assim pow
+[01:42:09. 01/10/2020] Lucy: Todo dia no pique
+[01:42:11. 01/10/2020] Myma Taru: E falei
+[01:42:23. 01/10/2020] Myma Taru: Isso aí n é 1,70 nem fudendo
+[01:42:29. 01/10/2020] Shinra Okono: tenho ss
+[01:42:39. 01/10/2020] Lucy: Eu sou mais alta q ela
+[01:42:44. 01/10/2020] Shinra Okono: mentira
+[01:42:50. 01/10/2020] Lucy: O seu cu
+[01:43:06. 01/10/2020] Shinra Okono: o teu
+[01:43:18. 01/10/2020] Lucy: Tira uma foto tua perto de um cabo de vassoura amiga
+[01:43:21. 01/10/2020] Shinra Okono: 1.70
+[01:43:26. 01/10/2020] Mardar: orra
+[01:43:26. 01/10/2020] Lucy: Só p eu testar um bagui
+[01:43:28. 01/10/2020] Shinra Okono: nice
+[01:43:36. 01/10/2020] Shinra Okono: > Só p eu testar um bagui
+<@!690337876239712356> pra q
+[01:43:38. 01/10/2020] Mardar: falo p enfia um cabo de vassoura no cu e faze live no facebook gaming
+[01:43:46. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:43:53. 01/10/2020] Lucy: #briga
+[01:44:00. 01/10/2020] Mardar: <#751798622793891890>
+[01:44:08. 01/10/2020] Lucy: #na
+[01:44:13. 01/10/2020] Myma Taru: #picanocudeyuri
+[01:44:14. 01/10/2020] Lucy: #floresta
+[01:44:16. 01/10/2020] Shinra Okono: #meucu
+[01:44:23. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:44:26. 01/10/2020] Mardar: <#751798622793891890>nafloresta
+[01:44:32. 01/10/2020] Lucy: #fds
+[01:44:38. 01/10/2020] Myma Taru: #yuricorno
+[01:44:40. 01/10/2020] Mardar: #fodase?
+[01:44:41. 01/10/2020] Shinra Okono: #minhapikanocudeiuri
+[01:44:47. 01/10/2020] Lucy: #lucyamaispicadorpg
+[01:44:59. 01/10/2020] Mestre: #tpkna3sessão
+[01:45:00. 01/10/2020] Shinra Okono: #poisacordelucy
+[01:45:07. 01/10/2020] Mardar: #aindabemqueeumechamolorranevecananestephanismithjihahahadtirolesadebaladeicekiss
+[01:45:07. 01/10/2020] Myma Taru: #13devidae19deCAkrl
+[01:45:23. 01/10/2020] Lucy: #jajavolto
+[01:45:33. 01/10/2020] Shinra Okono: qm falar agr é viado
+[01:45:41. 01/10/2020] Mardar: agr
+[01:45:44. 01/10/2020] Lucy: Esse guri é gay
+[01:45:48. 01/10/2020] Myma Taru: Agr
+[01:45:55. 01/10/2020] Mardar: nabudonosor
+[01:46:01. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkp
+[01:46:03. 01/10/2020] Lucy: Mano tu é gay ?
+[01:46:04. 01/10/2020] Myma Taru: Odanobunaga
+[01:46:13. 01/10/2020] Lucy: KKKKJKKKKKKKKKKK
+[01:46:23. 01/10/2020] Lucy: #imaetecudassai
+[01:46:35. 01/10/2020] Myma Taru: É com y
+[01:46:39. 01/10/2020] Myma Taru: Pago
+[01:46:46. 01/10/2020] Mardar: #yasas
+[01:46:58. 01/10/2020] Mardar: > Pago
+<@!328574010495598593> boquete
+[01:47:02. 01/10/2020] Myma Taru: #sasasasasasasasasas
+[01:47:03. 01/10/2020] Lucy: #yurigay
+[01:47:10. 01/10/2020] Mardar: #karoltrans
+[01:47:17. 01/10/2020] Lucy: Amoh
+[01:47:19. 01/10/2020] Shinra Okono: #cbolacorno
+[01:47:23. 01/10/2020] Myma Taru: <#750464086197797010> me mama
+[01:47:26. 01/10/2020] Mardar: #pintaomaiorqmeuantebraço
+[01:47:43. 01/10/2020] Myma Taru: Vc tem 87 de altura
+[01:47:49. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:47:50. 01/10/2020] Myma Taru: De antebraço tem quanto?
+[01:47:54. 01/10/2020] Shinra Okono: 5 de pika
+[01:47:56. 01/10/2020] Mardar: 98
+[01:47:57. 01/10/2020] Lucy: KKKKKKKKKKKKKKKKKKKKKJJKKJKKJKKJJKKJ
+[01:48:32. 01/10/2020] Mardar: 45
+[01:48:33. 01/10/2020] Mardar: 157
+[01:48:37. 01/10/2020] Mardar: ohomemqtrabalha
+[01:48:39. 01/10/2020] Lucy: P falar CMG sobe num banquinho fofo
+[01:48:39. 01/10/2020] Mardar: opovonaoesquece
+[01:48:59. 01/10/2020] Lucy: !d20
+[01:49:00. 01/10/2020] None: :one::nine:
+[01:49:00. 01/10/2020] None: Você ta tentando forjar uma jogada? Que otário.
+[01:49:07. 01/10/2020] Lucy: KKKKKKKKKKKKKKKKKKKKKJJKKJKKJKKJJKKJ
+[01:49:21. 01/10/2020] Lucy: !d20
+[01:49:22. 01/10/2020] None: :one::five:
+[01:49:22. 01/10/2020] None: Você ta tentando forjar uma jogada? Que otário.
+[01:49:38. 01/10/2020] None: Cheguei, to pronto pra te ajudar.
+[01:49:49. 01/10/2020] Lucy: !d20
+[01:49:49. 01/10/2020] None: :one::two:
+[01:49:57. 01/10/2020] Lucy: !d20
+[01:49:57. 01/10/2020] None: :four:
+[01:50:03. 01/10/2020] Mardar: !d20
+[01:50:03. 01/10/2020] None: :six:
+[01:50:06. 01/10/2020] Lucy: !d20
+[01:50:07. 01/10/2020] None: :six:
+[01:50:10. 01/10/2020] Mardar: !d2
+[01:50:10. 01/10/2020] None: :one:
+[01:50:12. 01/10/2020] Mardar: !d20
+[01:50:13. 01/10/2020] None: :one::four:
+[01:50:16. 01/10/2020] Lucy: !d20
+[01:50:16. 01/10/2020] None: :six:
+[01:50:23. 01/10/2020] Lucy: !d20
+[01:50:23. 01/10/2020] Myma Taru: !1d1
+[01:50:23. 01/10/2020] None: :one:
+[01:50:23. 01/10/2020] None: :one:
+[01:50:23. 01/10/2020] None: Total: **1**
+[01:50:43. 01/10/2020] Lucy: #todosgayslgtv
+[01:50:53. 01/10/2020] Mardar: !d20
+[01:50:53. 01/10/2020] None: :one::four:
+[01:50:59. 01/10/2020] Mardar: !d20
+[01:50:59. 01/10/2020] None: :six:
+[01:51:06. 01/10/2020] Mardar: !d20
+[01:51:06. 01/10/2020] None: :one::eight:
+[01:51:08. 01/10/2020] Mardar: !d20
+[01:51:08. 01/10/2020] None: :seven:
+[01:51:09. 01/10/2020] Mardar: !d20
+[01:51:09. 01/10/2020] None: :one::zero:
+[01:51:11. 01/10/2020] Shinra Okono: !d20
+[01:51:11. 01/10/2020] None: :one::five:
+[01:51:24. 01/10/2020] Mardar: 15 x 2 = 30
+[01:51:30. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:51:41. 01/10/2020] Mardar: eu uso crocks
+[01:52:24. 01/10/2020] Lucy: Mano se vc usar isso eu termino ctg
+[01:53:04. 01/10/2020] Mardar: 
+[01:54:07. 01/10/2020] Lucy: Oloko
+[01:54:11. 01/10/2020] Lucy: Já bati 5
+[01:54:12. 01/10/2020] Shinra Okono: comia
+[01:54:19. 01/10/2020] Mardar: comi
+[01:54:34. 01/10/2020] Myma Taru: Lectostrupose
+[01:54:48. 01/10/2020] Lucy: Lectop
+[01:55:30. 01/10/2020] Mardar: 
+[01:55:40. 01/10/2020] Shinra Okono: 
+[01:55:57. 01/10/2020] Lucy: KKKKKKKKKKK
+[01:56:16. 01/10/2020] Mardar: 
+[01:57:49. 01/10/2020] None: Left the voice channel due to inactivity.
+If you enjoy Vexera's music feature, check out Vexera Premium to get the most from Vexera. <https://vexera.io/premium>
+[01:58:44. 01/10/2020] Lucy: +play Tell a tale pé na areia
+[01:58:44. 01/10/2020] None: 
+[01:58:56. 01/10/2020] Lucy: Yuri ai
+[01:59:16. 01/10/2020] Lucy: Te amo
+[01:59:20. 01/10/2020] Shinra Okono: love
+[01:59:32. 01/10/2020] Lucy: <@366377785951911947>
+[01:59:34. 01/10/2020] Lucy: Lindo
+[01:59:57. 01/10/2020] Lucy: Mo toca um pagodin p mim
+[02:00:15. 01/10/2020] Mardar: vo toca no teu
+[02:00:21. 01/10/2020] Mardar: sas
+[02:00:24. 01/10/2020] Lucy: Q isso
+[02:00:28. 01/10/2020] Mardar: sas
+[02:00:37. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkk
+[02:00:42. 01/10/2020] Shinra Okono: carai
+[02:00:54. 01/10/2020] Lucy: KKKKKKKKKKKKKKKKKKKKKJJKKJKKJKKJJKKJseichobixo
+[02:00:54. 01/10/2020] Myma Taru: Bora vê doido
+[02:01:07. 01/10/2020] Myma Taru: Deixa de putaria ai
+[02:01:14. 01/10/2020] Myma Taru: Voltai Théo
+[02:02:20. 01/10/2020] Myma Taru: Canta essa música em japonês Yuri
+[02:02:48. 01/10/2020] Myma Taru: Cornomanzo
+[02:03:15. 01/10/2020] Mardar: 
+[02:03:17. 01/10/2020] Shinra Okono: 
+[02:03:18. 01/10/2020] Myma Taru: +play Otaku br
+[02:03:19. 01/10/2020] None: 
+[02:03:27. 01/10/2020] Myma Taru: Bel ai
+[02:04:12. 01/10/2020] Shinra Okono: sim seu corno
+[02:04:23. 01/10/2020] Lucy: 
+[02:04:30. 01/10/2020] Mardar: 
+[02:04:35. 01/10/2020] Myma Taru: É msm é
+[02:05:10. 01/10/2020] Lucy: +play DJ azeitona
+[02:05:10. 01/10/2020] None: 
+[02:05:36. 01/10/2020] Mestre: +stop
+[02:05:36. 01/10/2020] Lucy: Tchama
+[02:06:12. 01/10/2020] Mestre: +play World of Warcraft - Music & Ambience - Gilneas
+[02:06:12. 01/10/2020] None: 
+[02:06:16. 01/10/2020] Mardar: 
+[02:06:43. 01/10/2020] Lucy: Ressaca do carai
+[02:07:06. 01/10/2020] Mardar: 
+[02:09:35. 01/10/2020] Mardar: yamete kudasai
+[02:09:52. 01/10/2020] Myma Taru: Krl man
+[02:09:54. 01/10/2020] Myma Taru: Q foda
+[02:10:06. 01/10/2020] Myma Taru: Onde q ve esse anime?
+[02:10:21. 01/10/2020] Mestre: a nova temporada de jojo ta muito bonita
+[02:11:43. 01/10/2020] Mardar: fascinante
+[02:11:48. 01/10/2020] Lucy: Tudoh
+[02:12:19. 01/10/2020] Myma Taru: Dps de ter tirado o grude
+[02:12:24. 01/10/2020] Myma Taru: Dá cafa
+[02:12:27. 01/10/2020] Myma Taru: Cara*
+[02:13:15. 01/10/2020] Myma Taru: Eu?
+[02:13:17. 01/10/2020] Myma Taru: Não
+[02:13:23. 01/10/2020] Shinra Okono: hmm delicia
+[02:13:25. 01/10/2020] Myma Taru: Por favor n
+[02:13:26. 01/10/2020] Shinra Okono: ja comi
+[02:13:31. 01/10/2020] Myma Taru: Nooooooooo
+[02:13:36. 01/10/2020] Mestre: os ogros sao como cebolas nhami nhami
+[02:13:46. 01/10/2020] Myma Taru: Nooooooo
+[02:13:53. 01/10/2020] Myma Taru: Eles tem camadas
+[02:13:56. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkk
+[02:14:04. 01/10/2020] Lucy: 
+[02:14:04. 01/10/2020] Myma Taru: Ogros tem camadas?
+[02:14:07. 01/10/2020] Lucy: Yuri puto
+[02:14:23. 01/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[02:14:28. 01/10/2020] Shinra Okono: iuri te pegaram
+[02:14:32. 01/10/2020] Mardar: iiiiiiiiiiiii
+[02:14:39. 01/10/2020] Mardar: sou um caminhão
+[02:14:59. 01/10/2020] Myma Taru: Fudeu garera
+[02:15:07. 01/10/2020] Myma Taru: Ela é conjuradora
+[02:15:53. 01/10/2020] Mardar: 
+[02:16:04. 01/10/2020] Shinra Okono: hm
+[02:16:05. 01/10/2020] Myma Taru: Kskskks
+[02:16:09. 01/10/2020] Myma Taru: Q delicia
+[02:16:52. 01/10/2020] Shinra Okono: kero
+[02:27:50. 01/10/2020] Mardar: posso fica escondido p assusta elas?
+[02:28:04. 01/10/2020] Mardar: <@!648953201537843234>
+[02:29:07. 01/10/2020] Mestre: rola furtividade
+[02:29:14. 01/10/2020] Mardar: !d20
+[02:29:15. 01/10/2020] None: :one::six:
+[02:29:20. 01/10/2020] Mestre: ok
+[02:29:25. 01/10/2020] Mardar: 21
+[02:29:30. 01/10/2020] Mestre: ok
+[02:30:56. 01/10/2020] Mestre: vc chega por de trás do banco e inclusive ta ouvindo elas
+[02:31:11. 01/10/2020] Mestre: pohessa
+[02:31:21. 01/10/2020] Myma Taru: Osh
+[02:32:08. 01/10/2020] Mardar: qm ve minha msg?
+[02:32:14. 01/10/2020] Mardar: curte ai
+[02:32:17. 01/10/2020] Mestre: eu
+[02:32:20. 01/10/2020] Lucy: Mestre dos magos arrombado
+[02:32:37. 01/10/2020] Mardar: <@!328574010495598593> ta lendo?
+[02:32:45. 01/10/2020] Mardar: acho q a gnt pd manda e só tu le
+[02:32:49. 01/10/2020] Mardar: eu tbm no caso pq sou o adm
+[02:32:50. 01/10/2020] Mestre: so tem a gente aq
+[02:33:19. 01/10/2020] Mardar: eu assusto na hr q ele for falar de mim
+[02:41:36. 01/10/2020] Myma Taru: Hehe
+[02:41:41. 01/10/2020] Myma Taru: Lycar
+[02:42:21. 01/10/2020] Mestre: Likkar
+[02:46:05. 01/10/2020] Mardar: !d20
+[02:46:05. 01/10/2020] None: :two:
+[02:57:34. 01/10/2020] Mestre: A hora da noite eterna está por vir. Não olhe para trás. Seu destino está diante de você. A luz que você segue.. Não lhe protegerá de mim. Aguarde. Vida longa ao mestre. Cuidado com quem você fala... Estamos te olhando e seu filho também... Nos encontre... Você sabe do que estou falando... Se quiser ele vivo... QUEIME ESSA CARTA! Assinado: K
+[03:02:29. 01/10/2020] Mestre: +play World of Warcraft - Music & Ambience - Emerald Nightmare
+[03:02:29. 01/10/2020] None: Enqueued `World of Warcraft - Music & Ambience - Emerald Nightmare` in position `17`.
+[03:02:53. 01/10/2020] Mestre: +play World of Warcraft - Music & Ambience - Gilneas
+[03:02:54. 01/10/2020] None: Enqueued `World of Warcraft - Music & Ambience - Gilneas` in position `18`.
+[03:03:17. 01/10/2020] Mestre: +skip
+[03:03:17. 01/10/2020] None: Skipping...
+[03:03:17. 01/10/2020] None: 
+[03:05:33. 01/10/2020] Mestre: +skip
+[03:05:33. 01/10/2020] None: Skipping...
+[03:05:33. 01/10/2020] None: 
+[03:12:29. 01/10/2020] Lucy: !d20
+[03:12:29. 01/10/2020] None: :one::two:
+[03:13:40. 01/10/2020] Mestre: Reginaldo Gan
+[03:13:48. 01/10/2020] Mestre: Carla Sas
+[03:13:54. 01/10/2020] Mestre: Jonatan Silva
+[03:14:00. 01/10/2020] Mestre: Arolda Barbum
+[03:17:44. 01/10/2020] Mestre: Desaparecidos: Pablo, Carlos
+[03:29:19. 01/10/2020] Shinra Okono: +stop
+[03:29:19. 01/10/2020] None: 
+[03:30:45. 01/10/2020] Mardar: !d20
+[03:30:45. 01/10/2020] None: :one::six:
+[03:30:58. 01/10/2020] Lucy: !d20
+[03:30:58. 01/10/2020] None: :one::four:
+[03:31:02. 01/10/2020] Mardar: sefudeu
+[03:31:03. 01/10/2020] Mardar: perdeuotaria
+[03:31:07. 01/10/2020] Lucy: !d20
+[03:31:07. 01/10/2020] None: :eight:
+[03:31:09. 01/10/2020] Mardar: !d20
+[03:31:09. 01/10/2020] None: :three:
+[03:31:17. 01/10/2020] Lucy: KKKKKKKKKKKKKKKJJ
+[03:31:19. 01/10/2020] Mardar: !d20
+[03:31:19. 01/10/2020] None: :six:
+[03:31:27. 01/10/2020] Lucy: !d20
+[03:31:27. 01/10/2020] None: :one::six:
+[03:31:28. 01/10/2020] Mardar: !d20
+[03:31:28. 01/10/2020] None: :seven:
+[03:31:32. 01/10/2020] Mardar: PORRAAAAAAAAAAAAA
+[03:31:34. 01/10/2020] Mardar: !fodase
+[03:31:34. 01/10/2020] None: Não entendi o que quis dizer.
+[03:31:39. 01/10/2020] Mardar: !fodase?
+[03:31:39. 01/10/2020] None: Não entendi o que quis dizer.
+[12:27:25. 01/10/2020] None: Cheguei, to pronto pra te ajudar.
+[12:29:54. 01/10/2020] Mardar: !ajuda
+[12:29:55. 01/10/2020] None: Não entendi o que quis dizer.
+[12:30:08. 01/10/2020] Mardar: ajuda
+[12:32:16. 01/10/2020] Mardar: !p
+[12:32:16. 01/10/2020] None: Não entendi o que quis dizer.
+[13:06:21. 01/10/2020] Shinra Okono: burro
+[21:56:05. 01/10/2020] Mestre: Já já a gente cola
+[21:56:12. 01/10/2020] Mestre: Umas 19:30 chego
+[22:12:32. 01/10/2020] Shinra Okono: olha o zap
+[22:51:58. 01/10/2020] Myma Taru: jooj
+[22:52:01. 01/10/2020] Myma Taru: JOOJ
+[22:52:03. 01/10/2020] Myma Taru: JOOJ
+[22:52:05. 01/10/2020] Myma Taru: JOOJ
+[22:52:06. 01/10/2020] Myma Taru: JOOJ
+[22:52:08. 01/10/2020] Myma Taru: JOOJ
+[22:52:09. 01/10/2020] Myma Taru: JOOJ
+[22:52:10. 01/10/2020] Myma Taru: JOOJ
+[22:52:11. 01/10/2020] Myma Taru: JOOJ
+[22:52:12. 01/10/2020] Myma Taru: JOOJ
+[22:52:13. 01/10/2020] Myma Taru: JOOJ
+[22:52:14. 01/10/2020] Myma Taru: JOOJ
+[22:52:15. 01/10/2020] Myma Taru: JOOJ
+[22:52:17. 01/10/2020] Myma Taru: JOJO
+[22:52:18. 01/10/2020] Myma Taru: JOJO
+[22:52:19. 01/10/2020] Myma Taru: JOJO
+[22:52:21. 01/10/2020] Myma Taru: JOJO
+[22:52:22. 01/10/2020] Myma Taru: JOJO
+[22:52:23. 01/10/2020] Myma Taru: JOJO
+[22:52:24. 01/10/2020] Myma Taru: JOJO
+[22:52:25. 01/10/2020] Myma Taru: JOJO
+[22:52:26. 01/10/2020] Myma Taru: JOJO
+[22:52:27. 01/10/2020] Myma Taru: JOJO
+[22:52:29. 01/10/2020] Myma Taru: JOJO
+[22:52:30. 01/10/2020] Myma Taru: JOJO
+[22:52:31. 01/10/2020] Myma Taru: JOJO
+[22:52:33. 01/10/2020] Myma Taru: JOJO
+[22:52:34. 01/10/2020] Myma Taru: JOJO
+[22:52:35. 01/10/2020] Myma Taru: JOJO
+[22:52:36. 01/10/2020] Myma Taru: JOJO
+[22:52:37. 01/10/2020] Myma Taru: JOJO
+[22:55:09. 01/10/2020] Myma Taru: 
+[22:56:10. 01/10/2020] Mestre: +play Super Mario World - Castle Theme Epic Orchestral Cover
+[22:56:11. 01/10/2020] None: 
+[22:56:19. 01/10/2020] Lucy: +play DJ azeitona meme
+[22:56:20. 01/10/2020] None: Enqueued `DJ AZEITONA melhores MEMES` in position `20`.
+[22:57:01. 01/10/2020] Myma Taru: me da yoko
+[22:57:09. 01/10/2020] Shinra Okono: n
+[22:57:10. 01/10/2020] Lucy: Amoooooor
+[22:57:14. 01/10/2020] Lucy: Da DJ p mim
+[22:57:26. 01/10/2020] Lucy: <@366377785951911947>
+[22:57:26. 01/10/2020] Myma Taru: me da uma blusa assim entt
+[22:57:35. 01/10/2020] Shinra Okono: n
+[22:57:54. 01/10/2020] Myma Taru: 
+[22:58:02. 01/10/2020] Mestre: 
+[22:58:11. 01/10/2020] Myma Taru: ball 7
+[22:58:46. 01/10/2020] Mestre: 
+[22:58:48. 01/10/2020] Mestre: +stop
+[22:59:17. 01/10/2020] Myma Taru: téu
+[22:59:20. 01/10/2020] Myma Taru: TÉU
+[22:59:22. 01/10/2020] Lucy: O Felipe eu vô come seu
+[22:59:24. 01/10/2020] Lucy: C
+[22:59:25. 01/10/2020] Lucy: Bolo
+[22:59:33. 01/10/2020] Myma Taru: COMA
+[22:59:55. 01/10/2020] Mestre: +play World of Warcraft - Music & Ambience - Gilneas
+[22:59:55. 01/10/2020] None: 
+[22:59:59. 01/10/2020] Mestre: PARABEM
+[23:00:22. 01/10/2020] Mardar: mo
+[23:00:27. 01/10/2020] Mardar: tenta skipa
+[23:00:28. 01/10/2020] Mardar: p ve
+[23:00:39. 01/10/2020] Mardar: meu cu num guindaste em cima da sua casa
+[23:00:51. 01/10/2020] Lucy: KKKKKKKKKKKKKKKKKKKKKJJKKJKKJKKJJKKJ
+[23:01:05. 01/10/2020] Lucy: Agr eu n posso o mestre boto music
+[23:01:41. 01/10/2020] Lucy: É por isso q
+[23:01:49. 01/10/2020] Lucy: João Vitor chama ele de boliviano
+[23:01:52. 01/10/2020] Lucy: Saquei
+[23:02:08. 01/10/2020] Lucy: Witor corno
+[23:04:35. 01/10/2020] Myma Taru: pode começar galeris
+[23:05:39. 01/10/2020] Lucy: Pera aí q meus dog estão fazendo o chamando da chuva
+[23:06:36. 01/10/2020] Myma Taru: da yma bicuda neles
+[23:07:08. 01/10/2020] Mardar: bota os dog p manda um samudio em felip
+[23:07:24. 01/10/2020] Myma Taru: uma mamada
+[23:10:53. 01/10/2020] Myma Taru: !d20
+[23:10:53. 01/10/2020] None: :one::three:
+[23:11:01. 01/10/2020] Myma Taru: !2d20
+[23:11:02. 01/10/2020] None: :five:
+[23:11:02. 01/10/2020] None: :one::eight:
+[23:11:02. 01/10/2020] None: Total: **23**
+[23:11:08. 01/10/2020] Myma Taru: nice
+[23:13:42. 01/10/2020] Mestre: Reginaldo Gan
+Carla Sas
+Jonatan Silva
+Arolda Barbum
+Desaparecidos: Pablo, Carlos
+[23:14:57. 01/10/2020] Myma Taru: #pedidos iuri é gay
+[23:17:15. 01/10/2020] Mardar: fodase/
+[23:30:04. 01/10/2020] Mardar: !d20
+[23:30:05. 01/10/2020] None: :one:
+[23:31:59. 01/10/2020] Myma Taru: kk otario
+[23:35:15. 01/10/2020] Myma Taru: !d20
+[23:35:16. 01/10/2020] None: :seven:
+[23:40:20. 01/10/2020] Mardar: !d20
+[23:40:20. 01/10/2020] None: :seven:
+[23:41:39. 01/10/2020] Mardar: !d20
+[23:41:39. 01/10/2020] None: :six:
+[23:44:40. 01/10/2020] Myma Taru: Reginaldo Gan
+Carla Sas
+Jonatan Silva
+Arolda Barbum
+Desaparecidos: Pablo, Carlos
+[23:45:12. 01/10/2020] Shinra Okono: !d20
+[23:45:12. 01/10/2020] None: :one:
+[23:46:00. 01/10/2020] Lucy: !d20
+[23:46:00. 01/10/2020] None: :one::four:
+[23:50:06. 01/10/2020] Shinra Okono: =-0
+[23:50:15. 01/10/2020] Lucy: Grrrrr
+[23:56:32. 01/10/2020] Mardar: !d20
+[23:56:32. 01/10/2020] None: :one::zero:
+[23:58:40. 01/10/2020] Mardar: !d20
+[23:58:40. 01/10/2020] None: :one::four:
+[23:58:44. 01/10/2020] Myma Taru: !d20
+[23:58:44. 01/10/2020] None: :two:
+[00:00:57. 02/10/2020] Mestre: +PLAY World of Warcraft - Music & Ambience - Gilneas
+[00:00:57. 02/10/2020] None: 
+[00:03:29. 02/10/2020] Shinra Okono: !d4
+[00:03:29. 02/10/2020] None: :four:
+[00:03:48. 02/10/2020] Lucy: Tô caindo
+[00:03:50. 02/10/2020] Lucy: Pera
+[00:03:54. 02/10/2020] Myma Taru: kkkkkk[
+[00:04:04. 02/10/2020] Myma Taru: f
+[00:04:07. 02/10/2020] Mardar: f
+[00:04:11. 02/10/2020] Myma Taru: f
+[00:04:19. 02/10/2020] Mestre: f
+[00:04:21. 02/10/2020] Myma Taru: f
+[00:04:34. 02/10/2020] Mestre: felipe mandou o triplof
+[00:06:25. 02/10/2020] Myma Taru: TROLADA AO VIVO KARAI
+[00:06:26. 02/10/2020] Myma Taru: SKSKS
+[00:06:35. 02/10/2020] Myma Taru: Reginaldo Gan
+Carla Sas
+Jonatan Silva
+Arolda Barbum
+Desaparecidos: Pablo, Carlos
+[00:06:51. 02/10/2020] Myma Taru: Reginaldo Gan  
+Carla Sas
+Jonatan Silva
+Arolda Barbum
+Desaparecidos: Pablo, Carlos
+[00:20:59. 02/10/2020] Myma Taru: !d20
+[00:21:00. 02/10/2020] None: :three:
+[00:22:14. 02/10/2020] Myma Taru: !d20
+[00:22:15. 02/10/2020] None: :two::zero:
+[00:22:29. 02/10/2020] Mardar: robado
+[00:22:34. 02/10/2020] Shinra Okono: ladrao
+[00:25:14. 02/10/2020] Myma Taru: !d20
+[00:25:15. 02/10/2020] None: :nine:
+[00:27:18. 02/10/2020] Mardar: !d20
+[00:27:18. 02/10/2020] None: :one::four:
+[00:30:54. 02/10/2020] Lucy: !d20
+[00:30:54. 02/10/2020] None: :one::one:
+[00:30:57. 02/10/2020] Shinra Okono: !d20
+[00:30:57. 02/10/2020] None: :one::four:
+[00:38:22. 02/10/2020] Myma Taru: para de digitar guei
+[00:38:33. 02/10/2020] Shinra Okono: merda
+[00:38:36. 02/10/2020] Mardar: guei
+[00:38:43. 02/10/2020] Myma Taru: goi
+[00:38:50. 02/10/2020] Mardar: sos
+[00:38:50. 02/10/2020] Myma Taru: guoi
+[00:39:06. 02/10/2020] Mardar: rapaaaaz.
+[00:39:13. 02/10/2020] Myma Taru: ihhhhhhhhhhhh
+[00:39:19. 02/10/2020] Myma Taru: será?
+[00:39:21. 02/10/2020] Shinra Okono: iiiiiiiiiiiiiiiiiiii
+[00:39:25. 02/10/2020] Mardar: rapaaaaaaaaaaaazzzzz........
+[00:41:31. 02/10/2020] Shinra Okono: u
+[00:42:09. 02/10/2020] Shinra Okono: qm tem 1,60
+[00:42:17. 02/10/2020] Myma Taru: iuri
+[00:42:28. 02/10/2020] Shinra Okono: ele tem 1,06
+[00:42:35. 02/10/2020] Lucy: !d20
+[00:42:35. 02/10/2020] None: :one::nine:
+[00:42:39. 02/10/2020] Myma Taru: 1,600
+[00:42:52. 02/10/2020] Mardar: só de cu
+[00:42:56. 02/10/2020] Myma Taru: kkkk
+[00:44:01. 02/10/2020] Mestre: +P World of Warcraft - Music & Ambience - Gilneas
+[00:44:01. 02/10/2020] None: Enqueued `World of Warcraft - Music & Ambience - Gilneas` in position `23`.
+[00:44:03. 02/10/2020] Mardar: é por isso q eu xingo okono qdo to perto
+[00:44:38. 02/10/2020] Shinra Okono: kkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:45:08. 02/10/2020] Mardar: !d20
+[00:45:08. 02/10/2020] None: :one::one:
+[00:46:13. 02/10/2020] Myma Taru: !2d20
+[00:46:14. 02/10/2020] None: :two::zero:
+[00:46:14. 02/10/2020] None: :one::nine:
+[00:46:14. 02/10/2020] None: Total: **39**
+[00:46:21. 02/10/2020] Mardar: 2019
+[00:46:26. 02/10/2020] Myma Taru: ihh
+[00:50:36. 02/10/2020] Lucy: Pqp
+[00:50:50. 02/10/2020] Shinra Okono: fudeu
+[00:51:09. 02/10/2020] Lucy: Vamo se disfarçar
+[01:00:57. 02/10/2020] None: 
+[01:01:40. 02/10/2020] Mestre: +STOP
+[01:08:12. 02/10/2020] Mestre: Lier
+[01:08:16. 02/10/2020] Myma Taru: lie
+[01:10:46. 02/10/2020] Shinra Okono: fds
+[01:10:59. 02/10/2020] Myma Taru: va se fuder ja
+[01:12:34. 02/10/2020] Shinra Okono: vá tomar no meio do seu cu
+[01:12:39. 02/10/2020] Myma Taru: fds
+[01:12:40. 02/10/2020] Shinra Okono: seu desgraçado arrombado
+[01:12:42. 02/10/2020] Myma Taru: fale comigo n
+[01:12:43. 02/10/2020] Shinra Okono: fds
+[01:12:49. 02/10/2020] Myma Taru: va dormir va
+[01:18:41. 02/10/2020] Lucy: <@366377785951911947>  fala cmg no zap
+[01:18:44. 02/10/2020] Myma Taru: n
+[01:18:53. 02/10/2020] Lucy: Sim
+[01:18:57. 02/10/2020] Myma Taru: n
+[01:19:00. 02/10/2020] Myma Taru: ele n pode
+[01:19:00. 02/10/2020] Lucy: Sim
+[01:19:01. 02/10/2020] Mardar: sim
+[01:19:05. 02/10/2020] Myma Taru: n
+[01:19:07. 02/10/2020] Myma Taru: ele n pode
+[01:19:07. 02/10/2020] Lucy: Kkk
+[01:19:58. 02/10/2020] Myma Taru: tchola
+[01:21:03. 02/10/2020] Myma Taru: f
+[01:21:10. 02/10/2020] Mestre: f
+[01:21:14. 02/10/2020] Myma Taru: f
+[01:22:26. 02/10/2020] Myma Taru: ihhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+[01:25:19. 02/10/2020] Myma Taru: !d20
+[01:25:19. 02/10/2020] None: :five:
+[01:25:32. 02/10/2020] Mestre: !d20
+[01:25:33. 02/10/2020] None: :one::nine:
+[01:31:30. 02/10/2020] Myma Taru: adios amigo
+[01:31:40. 02/10/2020] Mardar: adios
+Connected to Discord.Bot ready.Connected to Discord.Bot ready.Connected to Discord.Bot ready.Connected to Discord.Bot ready.Connected to Discord.Bot ready.[23:05:20. 03/10/2020] None: !d20
+[23:05:20. 03/10/2020] None: Não entendi o que quis dizer.
+Connected to Discord.Bot ready.[23:06:02. 03/10/2020] None: !d20
+[23:06:08. 03/10/2020] None: !d20
+Connected to Discord.Bot ready.[23:06:26. 03/10/2020] None: !d20
+[23:06:26. 03/10/2020] None: Não entendi o que quis dizer.
+[23:06:28. 03/10/2020] None: !d20
+[23:06:28. 03/10/2020] None: Não entendi o que quis dizer.
+Connected to Discord.Bot ready.[23:06:49. 03/10/2020] None: !d20
+[23:06:50. 03/10/2020] None: Não entendi o que quis dizer.
+Connected to Discord.Bot ready.[23:07:37. 03/10/2020] None: !d20
+[23:07:38. 03/10/2020] None: Não entendi o que quis dizer.
+[23:07:39. 03/10/2020] None: !d209
+[23:07:39. 03/10/2020] None: Não entendi o que quis dizer.
+Connected to Discord.Bot ready.[23:08:10. 03/10/2020] None: !d20
+Connected to Discord.[23:08:42. 03/10/2020] None: !d20
+Add game_die emoji as reaction.Bot ready.[23:08:44. 03/10/2020] None: !d20
+Add game_die emoji as reaction.Connected to Discord.Bot ready.[23:09:07. 03/10/2020] None: !d20
+Add game_die emoji as reaction.Connected to Discord.Bot ready.[23:10:53. 03/10/2020] None: !d20
+Add game_die emoji as reaction.Connected to Discord.Bot ready.[23:13:56. 03/10/2020] None: !d20
+Add game_die emoji as reaction.Connected to Discord.Bot ready.[23:14:07. 03/10/2020] None: !d20
+Add game_die emoji as reaction.Connected to Discord.Bot ready.[23:14:44. 03/10/2020] None: !d20
+Add game_die emoji as reaction.Connected to Discord.[23:15:09. 03/10/2020] None: !d20
+Add game_die emoji as reaction.Bot ready.Connected to Discord.[23:15:52. 03/10/2020] None: !d20
+Add game_die emoji as reaction.Bot ready.Connected to Discord.Bot ready.[23:16:08. 03/10/2020] None: !d20
+Add game_die emoji as reaction.[23:16:09. 03/10/2020] None: :nine:
+[23:16:09. 03/10/2020] None: Total: **9**
+[23:16:15. 03/10/2020] None: !d20+dex
+Add game_die emoji as reaction.[23:16:15. 03/10/2020] None: :three:
+[23:16:15. 03/10/2020] None: Total: **3**
+Connected to Discord.Bot ready.[23:18:31. 03/10/2020] None: !d20
+Add game_die emoji as reaction.[23:18:31. 03/10/2020] None: :four:
+[23:18:31. 03/10/2020] None: Total: **4**
+[23:18:35. 03/10/2020] None: !d20+dex
+Add game_die emoji as reaction.[23:18:35. 03/10/2020] None: :nine:
+[23:18:35. 03/10/2020] None: Total: **9**
+[23:18:40. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:18:41. 03/10/2020] None: :one::two:
+[23:18:41. 03/10/2020] None: Total: **12**
+Connected to Discord.Bot ready.[23:19:20. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:19:20. 03/10/2020] None: :one::four:
+Connected to Discord.Bot ready.[23:20:17. 03/10/2020] None: !d20
+Add game_die emoji as reaction.[23:20:17. 03/10/2020] None: :one:
+[23:20:17. 03/10/2020] None: Total: **1**
+[23:20:22. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:20:22. 03/10/2020] None: :one::five:
+Connected to Discord.Bot ready.[23:23:00. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:23:00. 03/10/2020] None: :one::zero:
+[23:23:00. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
+**!for n**, 
+**!des n**, 
+**!con n**,
+**!int n**,
+**!sab n**,
+**!car n**.
+```
+Connected to Discord.Bot ready.[23:23:29. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:23:30. 03/10/2020] None: :two::zero:
+[23:23:30. 03/10/2020] None: diff
+Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
+**!for n**, 
+**!des n**, 
+**!con n**,
+**!int n**,
+**!sab n**,
+**!car n**.
+Connected to Discord.Bot ready.[23:24:15. 03/10/2020] None: !d20
+Add game_die emoji as reaction.[23:24:15. 03/10/2020] None: :one::six:
+[23:24:15. 03/10/2020] None: Total: **16**
+[23:24:19. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:24:20. 03/10/2020] None: :six:
+[23:24:20. 03/10/2020] None: diff
+Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
+**!for n**, 
+**!des n**, 
+**!con n**,
+**!int n**,
+**!sab n**,
+**!car n**.
+Connected to Discord.Bot ready.[23:24:45. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:24:45. 03/10/2020] None: :two:
+[23:24:45. 03/10/2020] None: diff
+Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
+**!for n**, 
+**!des n**, 
+**!con n**,
+**!int n**,
+**!sab n**,
+**!car n**.
+Connected to Discord.Bot ready.[23:25:00. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:25:00. 03/10/2020] None: :one::one:
+[23:25:00. 03/10/2020] None: diff
+Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:```
+**!for n**, 
+**!des n**, 
+**!con n**,
+**!int n**,
+**!sab n**,
+**!car n**.```
+Connected to Discord.Bot ready.[23:27:21. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:27:21. 03/10/2020] None: :five:
+[23:27:22. 03/10/2020] None: diff
+Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:```
+:one: !for 
+:two: !des 
+:three: !con
+:four: !int
+:five: !sab
+:six: !car```
+Connected to Discord.Bot ready.[23:27:56. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:27:56. 03/10/2020] None: :one::nine:
+[23:27:57. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:```
+:one: !for 
+:two: !des 
+:three: !con
+:four: !int
+:five: !sab
+:six: !car
+Connected to Discord.Bot ready.Disconnect from DiscordConnected to Discord.Bot ready.[23:28:41. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:28:41. 03/10/2020] None: :one::six:
+[23:28:41. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:```
+- !for 
+- !des 
+- !con
+- !int
+- !sab
+- !car
+Connected to Discord.Bot ready.[23:29:15. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:29:15. 03/10/2020] None: :two::zero:
+[23:29:16. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+[23:29:27. 03/10/2020] None: !des 20
+[23:29:27. 03/10/2020] None: Não entendi o que quis dizer.
+Connected to Discord.Bot ready.[23:30:43. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:30:44. 03/10/2020] None: :nine:
+[23:30:44. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+[23:30:48. 03/10/2020] None: !des 20
+[23:30:48. 03/10/2020] None: Não entendi o que quis dizer.
+Connected to Discord.Bot ready.[23:31:59. 03/10/2020] None: !des 20
+[23:31:59. 03/10/2020] None: Não entendi o que quis dizer.
+Connected to Discord.Disconnect from DiscordConnected to Discord.Bot ready.Connected to Discord.Bot ready.[23:34:50. 03/10/2020] None: !des 20
+[23:34:51. 03/10/2020] None: Não entendi o que quis dizer.
+Connected to Discord.Bot ready.[23:36:14. 03/10/2020] None: !des 20
+[23:36:23. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:36:23. 03/10/2020] None: :four:
+Connected to Discord.Bot ready.[23:36:56. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:36:57. 03/10/2020] None: :one::six:
+[23:36:57. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+[23:37:03. 03/10/2020] None: !des 20
+[23:37:09. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:37:09. 03/10/2020] None: :one::three:
+[23:37:10. 03/10/2020] None: Total: **18**
+Connected to Discord.Bot ready.[23:37:43. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:37:43. 03/10/2020] None: :one::six:
+[23:37:43. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:38:56. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:38:56. 03/10/2020] None: :five:
+[23:38:57. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+[23:38:59. 03/10/2020] None: !des 20
+[23:39:00. 03/10/2020] None: Não entendi o que quis dizer.
+Connected to Discord.Bot ready.Connected to Discord.Bot ready.[23:41:10. 03/10/2020] None: !des 20
+[23:41:15. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:41:15. 03/10/2020] None: :nine:
+[23:41:15. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:42:08. 03/10/2020] None: !des 20
+[23:42:12. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:42:12. 03/10/2020] None: :one::eight:
+[23:42:12. 03/10/2020] None: Total: **23**
+Connected to Discord.Bot ready.[23:42:27. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:42:27. 03/10/2020] None: :eight:
+[23:42:27. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:43:47. 03/10/2020] None: !des 20
+[23:43:50. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:43:51. 03/10/2020] None: :one:
+[23:43:51. 03/10/2020] None: Total: **6**
+Connected to Discord.Bot ready.[23:44:11. 03/10/2020] None: !des 20
+[23:44:15. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:44:15. 03/10/2020] None: :two:
+[23:44:15. 03/10/2020] None: Total: **7**
+Connected to Discord.Bot ready.[23:44:36. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:44:37. 03/10/2020] None: :eight:
+[23:44:37. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:46:02. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:46:03. 03/10/2020] None: :one::five:
+[23:46:03. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:47:49. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:47:49. 03/10/2020] None: :one::four:
+[23:47:49. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:48:37. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:48:37. 03/10/2020] None: :nine:
+[23:48:37. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:50:22. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:50:22. 03/10/2020] None: :eight:
+Connected to Discord.Bot ready.Connected to Discord.Bot ready.[23:54:12. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:54:13. 03/10/2020] None: :six:
+[23:54:13. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:54:29. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:54:29. 03/10/2020] None: :two:
+[23:54:29. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:56:30. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:56:30. 03/10/2020] None: :one::nine:
+[23:56:30. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[23:59:30. 03/10/2020] None: !d20+des
+Add game_die emoji as reaction.[23:59:30. 03/10/2020] None: :one:
+[23:59:31. 03/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[00:00:06. 04/10/2020] None: !d20+des
+Add game_die emoji as reaction.[00:00:06. 04/10/2020] None: :one:
+[00:00:06. 04/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[00:00:27. 04/10/2020] None: !d20+des
+Add game_die emoji as reaction.[00:00:28. 04/10/2020] None: :seven:
+[00:00:28. 04/10/2020] None: ```diff
+- Para eu adicionar o seu bônus de atributo, defina eles usando os comandos:
++ !for 
++ !des 
++ !con
++ !int
++ !sab
++ !car
+```
+Connected to Discord.Bot ready.[00:00:49. 04/10/2020] None: !d20+des
+Add game_die emoji as reaction.[00:00:49. 04/10/2020] None: :three:
+Connected to Discord.Bot ready.[00:02:04. 04/10/2020] None: !d20+des
+Add game_die emoji as reaction.[00:02:04. 04/10/2020] None: :one::five:
+[00:02:04. 04/10/2020] None: Total: **20**
+[00:02:12. 04/10/2020] None: !d20+for
+Add game_die emoji as reaction.[00:02:13. 04/10/2020] None: :one::two:
+[00:02:13. 04/10/2020] None: Total: **7**
+[00:02:18. 04/10/2020] Lucy: O seu cuuuuu
+[00:02:24. 04/10/2020] Lucy: Ele é só meu
+[00:02:42. 04/10/2020] None: !for 10
+[00:02:45. 04/10/2020] None: !con 10
+[00:02:52. 04/10/2020] None: !int 12
+[00:03:06. 04/10/2020] None: !sab 11
+[00:03:09. 04/10/2020] None: !cad 8
+[00:03:09. 04/10/2020] None: Não entendi o que quis dizer.
+[00:03:16. 04/10/2020] None: !car 8
+[00:03:20. 04/10/2020] None: !d20+for
+Add game_die emoji as reaction.[00:03:20. 04/10/2020] None: :two:
+[00:03:20. 04/10/2020] None: Total: **2**
+[00:05:10. 04/10/2020] None: !nome Mardar
+[00:06:05. 04/10/2020] None: !d20
+Add game_die emoji as reaction.[00:06:06. 04/10/2020] None: :one::seven:
+[00:06:06. 04/10/2020] None: Total: **17**
+Connected to Discord.Bot ready.[00:06:28. 04/10/2020] None: !d20+des
+Add game_die emoji as reaction.[00:06:28. 04/10/2020] None: :two::zero:
+[00:06:28. 04/10/2020] None: Total: **25**
+[00:06:32. 04/10/2020] None: !d20+int
+Add game_die emoji as reaction.[00:06:33. 04/10/2020] None: :one::four:
+[00:06:33. 04/10/2020] None: Total: **15**
+Connected to Discord.Bot ready.[00:07:18. 04/10/2020] None: !2d20
+Add game_die emoji as reaction.[00:07:19. 04/10/2020] None: :two::zero:
+[00:07:19. 04/10/2020] None: :one::nine:
+[00:07:19. 04/10/2020] None: ## Total: **39**
+Connected to Discord.Bot ready.[00:09:29. 04/10/2020] None: !d20
+Add game_die emoji as reaction.[00:09:29. 04/10/2020] None: :two:
+[00:09:29. 04/10/2020] None: > !d20
+Total: **2**
+Connected to Discord.[00:10:06. 04/10/2020] None: > !d20
+Bot ready.[00:10:08. 04/10/2020] None: !d20
+Add game_die emoji as reaction.[00:10:08. 04/10/2020] None: :six:
+[00:10:08. 04/10/2020] None: > <@366377785951911947>
+Total: **6**
+[00:10:19. 04/10/2020] None: !d20+des
+Add game_die emoji as reaction.[00:10:19. 04/10/2020] None: :one::one:
+[00:10:19. 04/10/2020] None: > <@366377785951911947>
+Total: **16**
+Connected to Discord.[00:10:33. 04/10/2020] None: !d20+des
+Add game_die emoji as reaction.Bot ready.[00:10:33. 04/10/2020] None: :one::nine:
+[00:10:33. 04/10/2020] None: >>> <@366377785951911947>
+Total: **24**
+[00:10:42. 04/10/2020] None: !6d20
+Add game_die emoji as reaction.[00:10:43. 04/10/2020] None: :one::nine:
+[00:10:43. 04/10/2020] None: :one::one:
+[00:10:43. 04/10/2020] None: :three:
+[00:10:43. 04/10/2020] None: :two::zero:
+[00:10:43. 04/10/2020] None: :two:
+[00:10:48. 04/10/2020] None: :eight:
+[00:10:48. 04/10/2020] None: >>> <@366377785951911947>
+Total: **63**
+[00:11:03. 04/10/2020] None: !2d20+des
+Add game_die emoji as reaction.[00:11:03. 04/10/2020] None: :two:
+[00:11:03. 04/10/2020] None: :two::zero:
+[00:11:04. 04/10/2020] None: >>> <@366377785951911947>
+Total: **27**
