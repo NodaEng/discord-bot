@@ -1907,3 +1907,72 @@ Add game_die emoji as reaction.[00:11:03. 04/10/2020] None: :two:
 [00:11:03. 04/10/2020] None: :two::zero:
 [00:11:04. 04/10/2020] None: >>> <@366377785951911947>
 Total: **27**
+Connected to Discord.Bot ready.Disconnected from DiscordDisconnected from DiscordDisconnected from DiscordDisconnected from DiscordConnected to Discord.[00:05:24. 14/12/2020] None: !play 2
+Connected to Discord.[00:05:46. 14/12/2020] None: !play 2
+Connected to Discord.Bot ready.[00:16:19. 14/12/2020] None: !save 1
+[00:16:24. 14/12/2020] None: !save 1
+Connected to Discord.Bot ready.[00:16:56. 14/12/2020] None: !save 1
+[00:16:59. 14/12/2020] None: a
+[00:17:01. 14/12/2020] None: !d20
+[00:17:04. 14/12/2020] None: !save 1
+Connected to Discord.Bot ready.[00:17:28. 14/12/2020] None: !save 329302
+Connected to Discord.Bot ready.[00:17:42. 14/12/2020] None: !save aaaaaa
+Connected to Discord.Bot ready.Connected to Discord.Bot ready.[00:23:48. 14/12/2020] None: !save 1
+[00:24:00. 14/12/2020] None: !save
+[00:24:04. 14/12/2020] None: !save aaaaaaaaa
+Connected to Discord.Bot ready.Connected to Discord.Bot ready.Connected to Discord.Bot ready.[00:25:37. 14/12/2020] None: !save
+Connected to Discord.Bot ready.[00:26:11. 14/12/2020] None: !sav
+[00:26:11. 14/12/2020] None: morri
+Connected to Discord.Bot ready.[00:29:14. 14/12/2020] None: !save 1
+[00:29:20. 14/12/2020] None: !play 1
+Connected to Discord.Bot ready.[00:29:36. 14/12/2020] None: !save 1
+Connected to Discord.Bot ready.[00:30:47. 14/12/2020] None: !save 1
+[00:30:53. 14/12/2020] None: !sss
+Connected to Discord.Bot ready.[00:34:49. 14/12/2020] None: !save 1
+Connected to Discord.Bot ready.[00:37:24. 14/12/2020] None: !save 2
+Connected to Discord.Bot ready.[00:38:07. 14/12/2020] None: !save 2
+Connected to Discord.Bot ready.[00:38:27. 14/12/2020] None: !save 4
+Connected to Discord.Bot ready.[00:38:43. 14/12/2020] None: !save 76767676
+[00:38:43. 14/12/2020] None: <Message id=787840968241577984 channel=<TextChannel id=787704778662477874 name='bot-info' position=1 nsfw=False news=False category_id=762037677666598983> type=<MessageType.default: 0> author=<Member id=366377785951911947 name='siGGGil' discriminator='2372' bot=False nick=None guild=<Guild id=762037677666598982 name='server_name' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>
+[00:40:56. 14/12/2020] None: !save 2
+[00:40:56. 14/12/2020] None: <Message id=787841525420916747 channel=<TextChannel id=762037677666598985 name='text-channel' position=0 nsfw=False news=False category_id=762037677666598983> type=<MessageType.default: 0> author=<Member id=366377785951911947 name='siGGGil' discriminator='2372' bot=False nick=None guild=<Guild id=762037677666598982 name='server_name' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>
+Connected to Discord.Bot ready.[00:45:53. 14/12/2020] None: !save 2
+[00:47:15. 14/12/2020] None: !save 2
+[00:51:56. 14/12/2020] None: !save 2
+[00:51:56. 14/12/2020] None: <Message id=787844295604174866 channel=<TextChannel id=762037677666598985 name='text-channel' position=0 nsfw=False news=False category_id=762037677666598983> type=<MessageType.default: 0> author=<Member id=366377785951911947 name='siGGGil' discriminator='2372' bot=False nick=None guild=<Guild id=762037677666598982 name='server_name' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>
+Connected to Discord.Bot ready.[00:59:24. 14/12/2020] None: !save 23333
+Connected to Discord.Bot ready.[00:59:44. 14/12/2020] None: !save 43434343
+Connected to Discord.Bot ready.[01:00:17. 14/12/2020] None: !save jrewiorjqweioriopew
+Connected to Discord.Bot ready.[01:00:37. 14/12/2020] None: !save 3u28432u49832
+Connected to Discord.Bot ready.[01:00:50. 14/12/2020] None: !save rkwepiorkweporpwe
+[01:00:50. 14/12/2020] None: siGGGil
+[01:01:04. 14/12/2020] None: !save 4
+[01:01:05. 14/12/2020] None: siGGGil
+Connected to Discord.Bot ready.[01:01:41. 14/12/2020] None: !save 23232
+[01:01:42. 14/12/2020] None: siGGGil
+[01:01:47. 14/12/2020] None: !save 43u2894u2389
+[01:01:48. 14/12/2020] None: siGGGil
+Connected to Discord.Bot ready.[01:05:00. 14/12/2020] None: !save minha idade
+Connected to Discord.Bot ready.[01:05:21. 14/12/2020] None: !save minha uidade
+Connected to Discord.Bot ready.[01:05:46. 14/12/2020] None: !save minhaidade
+[01:06:05. 14/12/2020] None: !save meuirmao
+Connected to Discord.Bot ready.[01:26:32. 14/12/2020] None: !for 10
+Connected to Discord.Bot ready.[01:27:11. 14/12/2020] None: !for 10
+Connected to Discord.Bot ready.[01:28:21. 14/12/2020] None: !for 10
+[01:28:36. 14/12/2020] None: !for 10
+[01:28:36. 14/12/2020] None: siGGGil
+Connected to Discord.Bot ready.[01:29:26. 14/12/2020] None: !for 10
+[01:29:33. 14/12/2020] None: !for 10
+Connected to Discord.Bot ready.[01:30:45. 14/12/2020] None: !for 10
+[01:30:52. 14/12/2020] None: !for 20
+Connected to Discord.Bot ready.Connected to Discord.Disconnected from DiscordConnected to Discord.Bot ready.[01:32:28. 14/12/2020] None: !for 20
+Connected to Discord.Bot ready.[01:32:52. 14/12/2020] None: !for 20
+Connected to Discord.Bot ready.[01:33:11. 14/12/2020] None: !for 20
+Connected to Discord.Bot ready.[01:33:41. 14/12/2020] None: !for 20
+Connected to Discord.Bot ready.[01:34:24. 14/12/2020] None: !for 10
+[01:34:25. 14/12/2020] None: siGGGil
+Connected to Discord.Bot ready.[01:36:03. 14/12/2020] None: !des 20
+Connected to Discord.Bot ready.[01:36:56. 14/12/2020] None: !for 11
+[01:37:02. 14/12/2020] None: !des 20
+[01:37:19. 14/12/2020] None: !des 20
+Connected to Discord.Bot ready.[01:39:00. 14/12/2020] None: !des 20
