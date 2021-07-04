@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import os
 import time
 import re
 
@@ -24,9 +25,10 @@ number_emoji_dict = {
 
 
 def read_token():
-    with open('token.txt', 'r') as f:
-        lines = f.readlines()
-        return lines[0].strip()
+    return os.environ('BOT_TOKEN')
+    # with open('token.txt', 'r') as f:
+    #     lines = f.readlines()
+    #     return lines[0].strip()
 
 
 token = read_token()
@@ -57,7 +59,7 @@ class RpgClient(commands.Bot):
 
     ]
 
-    DICE_ROLL_PATTERN = re.compile('!(?P<number_of_rolls>\d*)(?P<function>d)(?P<number_of_faces>\d+)(?P<have_modifier>\+)?(?P<modifier>(?(have_modifier)\w*|))')
+    DICE_ROLL_PATTERN = re.compile('! *(?P<number_of_rolls>\d*) *(?P<function>[dD]) *(?P<number_of_faces>\d+) *(?P<have_modifier>\+)? *(?P<modifier>(?(have_modifier)\w*|))')
 
     attribute_bonus_dict = {
         0: -5,
@@ -302,9 +304,9 @@ class RpgClient(commands.Bot):
             total += result
             await self.print_emoji_number(text_channel, result)
 
-        author_attribute = int(await self.get_info(message, modifier)) if modifier else 10
-
-        if not author_attribute:
+        try:
+            author_attribute = int(await self.get_info(message, modifier)) if modifier else 10
+        except Exception as e:
             await text_channel.send(f"Para eu adicionar o seu bônus de atributo, defina eles usando os comandos: `!for`, `!des`, `!con`, `!int`, `!sab`, `!car`")
 
         total += RpgClient.attribute_bonus_dict[author_attribute]
