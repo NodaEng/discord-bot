@@ -25,10 +25,7 @@ number_emoji_dict = {
 
 
 def read_token():
-    return os.environ('BOT_TOKEN')
-    # with open('token.txt', 'r') as f:
-    #     lines = f.readlines()
-    #     return lines[0].strip()
+    return os.environ('TOKEN')
 
 
 token = read_token()
